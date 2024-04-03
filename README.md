@@ -1,4 +1,4 @@
-# Snapshot Debugger
+# Snapshot Debuggerhttps://swc.page.link/?link=https://sweatco.in/?campaign%3Dundefined%26channel%3Dother%26deeplink_path%3D%2Fdailybonus%26feature%3Dapp_link&apn=in.sweatco.app&isi=971023427&ibi=swc&ius=swc&ct=app_link_other&pt=117705952&_icp=1
 
 The Snapshot Debugger  lets you inspect the state of a running cloud
 application, at any code location, without stopping or slowing it down. It’s not
